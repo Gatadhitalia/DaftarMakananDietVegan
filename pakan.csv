@@ -1,0 +1,121 @@
+Makanan,Porsi,Kalori,Lemak,Karbo,Protein,Kategori,Index
+Jagung Rebus,1,59,4700,1407,196,Makanan_Pokok,1
+Kentang Rebus,1,178,383,4127,20,Makanan_Pokok,2
+Ketan Putih,1,113,22,2446,234,Makanan_Pokok,3
+Ketupat,1,160,242,3036,327,Makanan_Pokok,4
+Lontong,1,130,20,2858,249,Makanan_Pokok,5
+Nasi Putih,1,135,29,2930,279,Makanan_Pokok,6
+Nasi Merah,1,110,89,2278,256,Makanan_Pokok,7
+Roti Gandum,1,67,107,1226,237,Makanan_Pokok,8
+Singkong Rebus,1,175,31,4170,149,Makanan_Pokok,9
+Talas Rebus,1,112,20,2646,150,Makanan_Pokok,10
+Ubi Ungu Rebus,1,98,5,2191,283,Makanan_Pokok,11
+Bubur,1,174,129,3662,361,Makanan_Pokok,12
+Crakers,1,150,600,2100,200,Makanan_Pokok,13
+Makaroni,1,220,129,4295,806,Makanan_Pokok,14
+Mie Instant,1,340,1500,4600,700,Makanan_Pokok,15
+Nasi Tim,1,346,1087,3297,2770,Makanan_Pokok,16
+Nasi Uduk,1,260,1295,3284,407,Makanan_Pokok,17
+Roti Tawar,1,100,150,1850,350,Makanan_Pokok,18
+Bihun Goreng,1,455,1704,5479,1773,Makanan_Pokok,19
+Bubur Ayam,1,372,1239,3612,2756,Makanan_Pokok,20
+Bubur Sum-Sum,1,418,857,8110,473,Makanan_Pokok,21
+Kentang Goreng,1,192,984,2496,244,Makanan_Pokok,22
+Mie Goreng,1,380,1200,5200,800,Makanan_Pokok,23
+Nasi Goreng,1,250,928,3138,939,Makanan_Pokok,24
+Sohun,1,351,6,8609,16,Makanan_Pokok,25
+Spaghetti,1,220,129,4295,806,Makanan_Pokok,26
+Tape singkong,1,245,69,5586,318,Makanan_Pokok,27
+Ubi Talas,1,112,20,2646,150,Makanan_Pokok,28
+Ubi Jalar,1,114,7,2676,209,Makanan_Pokok,29
+Ubi Bakar Cilembu,1,102,6,2394,187,Makanan_Pokok,30
+Tempe Orek,1,210,984,1872,1574,Lauk,31
+Tempe Bacem,1,244,1580,1116,1864,Lauk,32
+Tempe Goreng,1,192,1300,1015,1131,Lauk,33
+Tahu Bacem,1,119,733,546,952,Lauk,34
+Keripik Tempe,1,150,894,1636,144,Lauk,35
+Perkedel Jagung,1,91,540,945,187,Lauk,36
+Perkedel Kentang,1,107,560,1239,228,Lauk,37
+Tahu Goreng,1,271,2018,1049,1719,Lauk,38
+Tahu Isi,1,134,664,865,1025,Lauk,39
+Tahu Sumedang,1,282,1935,1041,1661,Lauk,40
+Jamur Krispi,1,56,293,604,190,Lauk,41
+Gembus,1,92,27,1696,485,Lauk,42
+Rolade Tahu,1,217,919,1696,1381,Lauk,43
+Pepes Tahu,1,63,356,246,571,Lauk,44
+Sate Jamur,1,77,219,413,168,Lauk,45
+Tahu Kuning,1,80,470,80,1090,Lauk,46
+Tahu susu,1,100,420,345,1175,Lauk,47
+Sapo Tahu,1,150,660,270,1990,Lauk,48
+Tempe Bakar,1,156,887,749,1468,Lauk,49
+Tempe Mendoan,1,200,1278,1269,1118,Lauk,50
+Tempe Rebus,1,196,1138,935,1819,Lauk,51
+Kering Tempe,1,259,1293,2646,1360,Lauk,52
+Sambal Kentang,1,102,302,1015,875,Lauk,53
+Tempe Kukus,1,90,243,1268,489,Lauk,54
+Tempe Penyet,1,245,3430,3852,4603,Lauk,55
+Kering Kentang,1,165,860,1744,544,Lauk,56
+Serundeng Kelapa,1,93,802,536,143,Lauk,57
+Burger Vegetarian,1,124,441,999,1099,Lauk,58
+Bola-Bola Tahu,1,150,830,855,1330,Lauk,59
+Jamur Panggang,1,74,456,740,134,Lauk,60
+Apel,1,80,26,2127,40,Buah,61
+Apel Hijau,1,61,16,1633,35,Buah,62
+Belimbing,1,28,30,612,95,Buah,63
+Duku,1,10,6,256,13,Buah,64
+Jambu Air,1,55,32,1399,60,Buah,65
+Jambu Biji,1,68,95,1432,255,Buah,66
+Jeruk Medan,1,62,16,1539,123,Buah,67
+Anggur,1,55,13,1448,58,Buah,68
+Pepaya,1,55,20,1337,85,Buah,69
+Mangga,1,107,45,2805,84,Buah,70
+Nanas,1,74,19,1958,84,Buah,71
+Nangka,1,94,30,2401,147,Buah,72
+Pir,1,96,20,2566,63,Buah,73
+Pisang Rebus,1,145,44,3790,155,Buah,74
+Salak,1,23,5,607,12,Buah,75
+Semangka,1,30,15,755,61,Buah,76
+Buah Naga,1,50,38,1226,78,Buah,77
+kelengkeng,1,60,10,1514,131,Buah,78
+Melon,1,34,19,816,84,Buah,79
+Kiwi,1,46,40,1114,87,Buah,80
+Alpukat,1,332,2947,1751,402,Buah,81
+Strawberry,1,32,30,768,67,Buah,82
+Manggis,1,73,58,1792,41,Buah,83
+Sawo,1,83,110,1900,44,Buah,84
+Anggur Hijau,1,55,13,1440,58,Buah,85
+Sirsak,1,66,30,1684,100,Buah,86
+Durian,1,147,533,2700,147,Buah,87
+Rambutan,1,78,20,1988,62,Buah,88
+Jeruk Mandarin,1,58,34,1454,88,Buah,89
+Jeruk Bali,1,32,10,808,63,Buah,90
+Sop Bening Bayam,1,43,44,917,214,Sayur,91
+Cah Labu Siam,1,23,86,367,71,Sayur,92
+Sayur Asam,1,80,276,1290,318,Sayur,93
+Sayur lodeh,1,162,947,1470,666,Sayur,94
+Sop Mutiara Jagung,1,72,193,1140,212,Sayur,95
+Sop Oyong,1,54,43,966,259,Sayur,96
+Tumis Kangkung,1,106,940,431,276,Sayur,97
+Pecel Sayur,1,426,1913,5262,1734,Sayur,98
+Karedoks,1,300,1679,2567,1653,Sayur,99
+Plensing Kangkung,1,75,453,722,319,Sayur,100
+Tumis Buncis,1,65,345,815,197,Sayur,101
+Tumis Daun Singkong,1,95,200,1201,805,Sayur,102
+"Tumis Kc, Panjang + Jagung",1,155,939,1062,987,Sayur,103
+Gudeg,1,127,471,2254,182,Sayur,104
+Tumis Kacang Panjang,1,155,933,1026,987,Sayur,105
+Tumis Sawi Putih,1,132,758,1158,571,Sayur,106
+Oseng Brokoli,1,87,433,1142,370,Sayur,107
+Salad Bayam,1,107,482,1120,511,Sayur,108
+Tumis Pakcoy,1,30,52,557,185,Sayur,109
+Salad Bayam,1,12,12,277,63,Sayur,110
+Oseng Buncis,1,210,645,323,794,Sayur,111
+Orak-Arik Brokoli,1,342,650,341,612,Sayur,112
+Kubis Rebus,1,65,432,672,153,Sayur,113
+Sup Jamur,1,102,577,892,428,Sayur,114
+Sayur Bening Katu,1,54,66,927,382,Sayur,115
+Sup Toge,1,86,192,1273,312,Sayur,116
+Toge Goreng,1,94,280,1422,522,Sayur,117
+Tumis Jantung Pisang,1,83,312,413,337,Sayur,118
+Tumis Kembang Kol,1,117,923,691,312,Sayur,119
+Salad Kubis,1,134,1182,704,118,Sayur,120
